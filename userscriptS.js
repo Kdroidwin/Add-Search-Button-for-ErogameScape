@@ -1,10 +1,14 @@
 // ==UserScript==
-// @name         ErogameScape Priv.au 検索ボタン追加
-// @namespace    https://erogamescape.dyndns.org/
-// @version      1.4
-// @description  ゲームタイトルをコピーし、Priv.au で攻略検索するボタンを追加
+// @name         ErogameScape 検索ボタン追加
+// @namespace    https://kdroidwin.hatenablog.com
+// @version      1.31
+// @author       Kdroidwin
+// @license      GPL-3.0 license
+// @description  ゲームタイトルをコピーし、ゲームの攻略方法などをPriv.au で検索するボタンを追加
 // @match        https://erogamescape.dyndns.org/*
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/528212/ErogameScape%20%E6%A4%9C%E7%B4%A2%E3%83%9C%E3%82%BF%E3%83%B3%E8%BF%BD%E5%8A%A0.user.js
+// @updateURL https://update.greasyfork.org/scripts/528212/ErogameScape%20%E6%A4%9C%E7%B4%A2%E3%83%9C%E3%82%BF%E3%83%B3%E8%BF%BD%E5%8A%A0.meta.js
 // ==/UserScript==
 
 (function() {
